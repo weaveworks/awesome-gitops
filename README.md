@@ -11,3 +11,10 @@ GitOps is a way to do Continuous Delivery. It works by using Git as a single sou
 ## Why is GitOps awesome?
 
 It [increases developer productivity](https://www.weave.works/technologies/gitops/#key-benefits), [enhances developer experience](https://www.weave.works/technologies/gitops/#key-benefits), [improves stability](https://www.weave.works/technologies/gitops/#key-benefits), all will having [higher reliability](https://www.weave.works/technologies/gitops/#key-benefits), [higher consistency](https://www.weave.works/technologies/gitops/#key-benefits) and [stronger security guarantees](https://www.weave.works/technologies/gitops/#key-benefits).
+
+- [Awesome GitOps](#awesome-gitops)
+	- [Tools](#tools)
+
+## Tools
+
+* [Flux](https://github.com/weaveworks/flux) - The GitOps Kubernetes operator
