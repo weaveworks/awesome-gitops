@@ -15,6 +15,12 @@ It [increases developer productivity](https://www.weave.works/technologies/gitop
 - [Awesome GitOps](#awesome-gitops)
 	- [Tools](#tools)
 
+## Background
+* [Operations by pull request](https://www.weave.works/blog/gitops-operations-by-pull-request) - a blog entry about how GitOps came about at Weaveworks
+
 ## Tools
 
 * [Flux](https://github.com/weaveworks/flux) - The GitOps Kubernetes operator
+* [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator
+* [Weave Cloud](https://www.weave.works/product/cloud/) - GitOps experience, workflows and dashboard for your cluster(s)
+
