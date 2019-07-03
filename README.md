@@ -22,5 +22,5 @@ It [increases developer productivity](https://www.weave.works/technologies/gitop
 
 * [Flux](https://github.com/weaveworks/flux) - The GitOps Kubernetes operator
 * [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
-* [Weave Cloud](https://www.weave.works/product/cloud/) - GitOps experience, workflows and dashboard for your cluster(s)
+* [Weave Cloud](https://www.weave.works/product/cloud/) - GitOps experience, workflows and dashboard for your cluster(s) (commercial product from Weaveworks)
 
