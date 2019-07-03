@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list for awesome gitops resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
+A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
 ## What is GitOps?
 
