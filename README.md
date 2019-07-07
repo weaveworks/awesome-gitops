@@ -32,6 +32,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 ## Ancillary Tools
 
 ### Secrets
+- [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - One-way encrypted Secrets 
 
 ## Tutorials
 
