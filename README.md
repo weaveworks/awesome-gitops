@@ -16,6 +16,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 - [Awesome-GitOps](#Awesome-GitOps)
   - [Tools](#Tools)
+  - [Ancillary Tools](#Ancillary-Tools)
   - [Tutorials](#Tutorials)
 
 ## Background
@@ -28,6 +29,12 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 - [Gitkube](https://gitkube.sh/) - Build and deploy docker images to Kubernetes using git push
 - [Weave Cloud](https://www.weave.works/product/cloud/) - GitOps experience, workflows and dashboard for your cluster(s) (commercial product from Weaveworks)
+
+## Ancillary Tools
+
+### Secrets
+- [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - One-way encrypted Secrets 
+- [SOPS](https://github.com/mozilla/sops) - Secrets OPerationS
 
 ## Tutorials
 
