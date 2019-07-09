@@ -37,7 +37,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 ### Secrets
 
-- [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - One-way encrypted Secrets 
+- [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - One-way encrypted Secrets
 - [SOPS](https://github.com/mozilla/sops) - Secrets OPerationS
 
 ## Tutorials
