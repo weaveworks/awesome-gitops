@@ -33,6 +33,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 ## Ancillary Tools
 
 ### Secrets
+
 - [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - One-way encrypted Secrets 
 - [SOPS](https://github.com/mozilla/sops) - Secrets OPerationS
 
@@ -41,3 +42,8 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Managing Helm releases the GitOps way](https://github.com/fluxcd/helm-operator-get-started) - Flux and Helm Operator tutorial
 - [Automating Istio canary deployments with GitOps](https://github.com/stefanprodan/gitops-istio) - Progressive Delivery tutorial with Flagger, Flux, Helm Operator and Istio
 - [Managing a multi-tenant cluster with GitOps](https://github.com/stefanprodan/fluxcd-multi-tenancy) - Flux and Kustomize tutorial
+
+## Community
+
+- [Kubernetes slack](https://slack.kubernetes.io/) - #gitops channel for discussion of GitOps patterns and tooling
+- [Weaveworks slack](https://slack.weave.works/) - multiple channels (including #flux, #flagger and others) to discuss Weaveworks GitOps products, give feedback, and talk about general approaches
