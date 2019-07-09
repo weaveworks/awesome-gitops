@@ -1,0 +1,22 @@
+version: 2
+
+workflows:
+  version: 2
+  any-commit:
+    jobs:
+      - lint
+
+jobs:
+  lint:
+    docker: # run the steps with Docker
+      - image: circleci/node:12.6 # ...with this image as the primary container; this is where all `steps` will run
+    steps:
+      - checkout
+      - run:
+          name: install-markdownlint
+          command: |
+            sudo npm install -g markdownlint-cli
+            markdownlint --version
+      - run:
+          name: lint
+          command: markdownlint .

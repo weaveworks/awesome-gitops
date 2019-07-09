@@ -1,0 +1,9 @@
+{
+  "default": true,
+
+  "line_length": false,
+  "no-bare-urls": false,
+
+  "comment": "Ignore errors like MD026/no-trailing-punctuation Trailing punctuation in heading [Punctuation: '?'] in README.md's title",
+  "no-trailing-punctuation": false
+}
