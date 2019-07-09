@@ -18,6 +18,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
   - [Tools](#Tools)
   - [Ancillary Tools](#Ancillary-Tools)
   - [Tutorials](#Tutorials)
+  - [Community](#Community)
 
 ## Background
 
