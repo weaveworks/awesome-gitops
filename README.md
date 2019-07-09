@@ -30,6 +30,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 - [Faros](https://github.com/pusher/faros) - CRD based GitOps controller
 - [Gitkube](https://gitkube.sh/) - Build and deploy docker images to Kubernetes using git push
+- [JenkinsX](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
 - [Weave Cloud](https://www.weave.works/product/cloud/) - GitOps experience, workflows and dashboard for your cluster(s) (commercial product from Weaveworks)
 
 ## Ancillary Tools
