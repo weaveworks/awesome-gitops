@@ -38,6 +38,16 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [JenkinsX](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
 - [Weave Cloud](https://www.weave.works/product/cloud/) - GitOps experience, workflows and dashboard for your cluster(s) (commercial product from Weaveworks)
 
+## Public Cloud Providers
+
+### Google Cloud
+
+- [Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build) GitOps-style continuous delivery with Cloud Build
+
+### Amazon Webservices
+
+- [CloudGenesis](https://github.com/LifeWay/CloudGenesis) GitOps for CloudFormation
+
 ## Ancillary Tools
 
 ### Secrets
