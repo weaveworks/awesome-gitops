@@ -5,5 +5,13 @@
   "no-bare-urls": false,
 
   "comment": "Ignore errors like MD026/no-trailing-punctuation Trailing punctuation in heading [Punctuation: '?'] in README.md's title",
-  "no-trailing-punctuation": false
+  "no-trailing-punctuation": false,
+
+  "comment": "Ignore some MD033/no-inline-html errors, as we sometimes need raw HTML for more advanced styling",
+  "no-inline-html": {
+    "allowed_elements": [
+      "p",
+      "img"
+    ]
+  }
 }
