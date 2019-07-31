@@ -6,7 +6,7 @@ A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome]
 
 ## What is GitOps? <!-- omit in toc -->
 
-GitOps is a way to do [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery).
+GitOps is a way to do Kubernetes cluster management and application delivery.
 It works by using [Git](https://git-scm.com/) as a single source of truth for
 [declarative infrastructure and applications](https://en.wikipedia.org/wiki/Infrastructure_as_code),
 together with tools ensuring the _actual state_ of infrastructure and
