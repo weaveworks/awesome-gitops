@@ -42,6 +42,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 - [Flux](https://github.com/weaveworks/flux) - The GitOps Kubernetes operator
 - [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
+- [Ignite](https://github.com/weaveworks/ignite) - A Virtual Machine manager with a container UX and built-in GitOps
 - [Faros](https://github.com/pusher/faros) - CRD based GitOps controller
 - [Gitkube](https://gitkube.sh/) - Build and deploy docker images to Kubernetes using git push
 - [JenkinsX](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
