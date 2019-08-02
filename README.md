@@ -39,7 +39,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Operations by pull request](https://www.weave.works/blog/gitops-operations-by-pull-request) - a blog entry about how GitOps came about at Weaveworks
 
 ## Tools
-
+- [Atlantis](https://www.runatlantis.io/) - Terraform pull request automation
 - [Flux](https://github.com/weaveworks/flux) - The GitOps Kubernetes operator
 - [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 - [Ignite](https://github.com/weaveworks/ignite) - A Virtual Machine manager with a container UX and built-in GitOps
