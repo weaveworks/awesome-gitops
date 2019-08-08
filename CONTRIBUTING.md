@@ -10,7 +10,7 @@ We appreciate and recognize all contributors. Please ensure your pull request ad
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
+- The pull request and commit should have a useful title as well as why you are proposing the change(s).
 
 Thank you for your suggestions!
 
