@@ -54,6 +54,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 - [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - One-way encrypted Secrets
 - [SOPS](https://github.com/mozilla/sops) - Secrets OPerationS
+- [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) - Sync secrets from Vault with Kubernetes
 
 ## Tutorials
 
