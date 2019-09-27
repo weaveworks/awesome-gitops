@@ -40,8 +40,10 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 ## Tools
 
+- [ArgoCD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes
 - [Atlantis](https://www.runatlantis.io/) - Terraform pull request automation
-- [Flux](https://github.com/weaveworks/flux) - The GitOps Kubernetes operator
+- [FluxCD](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
+- [Helm Operator](https://github.com/fluxcd/helm-operator) - Automates Helm Chart releases in a GitOps manner
 - [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 - [Ignite](https://github.com/weaveworks/ignite) - A Virtual Machine manager with a container UX and built-in GitOps
 - [Faros](https://github.com/pusher/faros) - CRD based GitOps controller
