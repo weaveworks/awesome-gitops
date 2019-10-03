@@ -42,6 +42,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 - [ArgoCD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes
 - [Atlantis](https://www.runatlantis.io/) - Terraform pull request automation
+- [CloudBees Rollout](https://rollout.io/) - Feature Flag as-a-Service that leverages GitOps & Config-as-Code
 - [FluxCD](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
 - [Helm Operator](https://github.com/fluxcd/helm-operator) - Automates Helm Chart releases in a GitOps manner
 - [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
