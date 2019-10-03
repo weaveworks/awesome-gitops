@@ -48,7 +48,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Ignite](https://github.com/weaveworks/ignite) - A Virtual Machine manager with a container UX and built-in GitOps
 - [Faros](https://github.com/pusher/faros) - CRD based GitOps controller
 - [Gitkube](https://gitkube.sh/) - Build and deploy docker images to Kubernetes using git push
-- [JenkinsX](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
+- [Jenkins X](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
 - [Weave Cloud](https://www.weave.works/product/cloud/) - GitOps experience, workflows and dashboard for your cluster(s) (commercial product from Weaveworks)
 
 ## Ancillary Tools
