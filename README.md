@@ -40,6 +40,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 ## Tools
 
+- [Addon-operator](https://github.com/flant/addon-operator) - tool for automatic installation and management of addons in Kubernetes
 - [ArgoCD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes
 - [Atlantis](https://www.runatlantis.io/) - Terraform pull request automation
 - [Autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a Git repository to a Kubernetes cluster
