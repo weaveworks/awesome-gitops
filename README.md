@@ -52,7 +52,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Gitkube](https://gitkube.sh/) - Build and deploy docker images to Kubernetes using git push
 - [Jenkins X](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
 - [Weave Cloud](https://www.weave.works/product/cloud/) - GitOps experience, workflows and dashboard for your cluster(s) (commercial product from Weaveworks)
-- [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes. Integrates with any existing CI system.
+- [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes (integrates with any existing CI system)
 
 ## Ancillary Tools
 
