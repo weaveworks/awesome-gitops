@@ -37,6 +37,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 ## Background
 
 - [Operations by pull request](https://www.weave.works/blog/gitops-operations-by-pull-request) - a blog entry about how GitOps came about at Weaveworks
+- [GitOps.tech](https://www.gitops.tech/) - a summary of how GitOps works
 
 ## Tools
 
