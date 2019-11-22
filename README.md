@@ -59,6 +59,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 ### Secrets
 
+- [Kamus](https://github.com/Soluto/kamus) - Zero-trust secret encryption/decryption solution for Kubernetes applications
 - [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - One-way encrypted Secrets
 - [SOPS](https://github.com/mozilla/sops) - Secrets OPerationS
 - [Vault Secrets Operator](https://github.com/ricoberger/vault-secrets-operator) - Sync secrets from Vault with Kubernetes
