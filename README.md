@@ -59,6 +59,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 ### Secrets
 
+- [git-secret](https://github.com/sobolevn/git-secret) - A bash-tool to store your private data inside a git repository
 - [Kamus](https://github.com/Soluto/kamus) - Zero-trust secret encryption/decryption solution for Kubernetes applications
 - [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) - One-way encrypted Secrets
 - [SOPS](https://github.com/mozilla/sops) - Secrets OPerationS
