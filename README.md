@@ -28,6 +28,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Background](#background)
 - [Tools](#tools)
 - [Ancillary Tools](#ancillary-tools)
+  - [Notifications](#notifications)
   - [Secrets](#secrets)
 - [Tutorials](#tutorials)
 - [Community](#community)
@@ -56,6 +57,10 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes (integrates with any existing CI system)
 
 ## Ancillary Tools
+
+### Notifications
+
+- [Fluxcloud](https://github.com/justinbarrick/fluxcloud) - Slack notifications for FluxCD without Weave Cloud
 
 ### Secrets
 
