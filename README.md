@@ -81,4 +81,5 @@ Modern software development practices _assume_ support for reviewing changes, tr
 ## Community
 
 - [Kubernetes slack](https://slack.kubernetes.io/) - #gitops channel for discussion of GitOps patterns and tooling
-- [Weaveworks slack](https://slack.weave.works/) - multiple channels (including #flux, #flagger and others) to discuss Weaveworks GitOps products, give feedback, and talk about general approaches
+- [CNCF slack](https://slack.cncf.io/) - #flux channel for discussion of GitOps patterns and tooling
+- [Weaveworks slack](https://slack.weave.works/) - multiple channels (including #flagger, #wksctl and others) to discuss Weaveworks GitOps products, give feedback, and talk about general approaches
