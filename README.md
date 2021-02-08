@@ -4,6 +4,8 @@
 
 A curated list for awesome GitOps resources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
+We follow this [code of conduct](CODE-OF-CONDUCT.md).
+
 ## What is GitOps? <!-- omit in toc -->
 
 GitOps is a way to do Kubernetes cluster management and application delivery.
