@@ -64,7 +64,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 ### Notifications
 
-- [Fluxcloud](https://github.com/justinbarrick/fluxcloud) - Slack notifications for FluxCD without Weave Cloud
+- [Fluxcloud](https://github.com/topfreegames/fluxcloud) - Slack notifications for FluxCD without Weave Cloud
 
 ### Secrets
 
