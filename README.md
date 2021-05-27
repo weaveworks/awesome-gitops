@@ -42,6 +42,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Operations by pull request](https://www.weave.works/blog/gitops-operations-by-pull-request) - a blog entry about how GitOps came about at Weaveworks
 - [GitOps.tech](https://www.gitops.tech/) - a summary of how GitOps works
 - [GitOps Conversation Kit](https://gitops-community.github.io/kit/) - How to showcase GitOps awesomeness and convince all stakeholders to implement it
+- [GitOps Working Group](https://github.com/gitops-working-group/gitops-working-group) - GitHub repo of GitOps working group under the CNCF App Delivery SIG.
 
 ## Tools
 
