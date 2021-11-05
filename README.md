@@ -50,7 +50,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Atlantis](https://www.runatlantis.io/) - Terraform pull request automation
 - [Autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a Git repository to a Kubernetes cluster
 - [CloudBees Rollout](https://rollout.io/) - Feature Flag as-a-Service that leverages GitOps & Config-as-Code (commercial product from CloudBees)
-- [FluxCD](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
+- [FluxCD](https://github.com/fluxcd/flux2) - The GitOps Kubernetes operator
 - [Helm Operator](https://github.com/fluxcd/helm-operator) - Automates Helm Chart releases in a GitOps manner
 - [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 - [Ignite](https://github.com/weaveworks/ignite) - A Virtual Machine manager with a container UX and built-in GitOps
@@ -78,9 +78,9 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 ## Tutorials
 
-- [Managing Helm releases the GitOps way](https://github.com/fluxcd/helm-operator-get-started) - Flux and Helm Operator tutorial
+- [Managing Helm releases the GitOps way](https://fluxcd.io/docs/components/source/helmrepositories/#spec-examples) - Flux and Helm Operator tutorial
 - [Automating Istio canary deployments with GitOps](https://github.com/stefanprodan/gitops-istio) - Progressive Delivery tutorial with Flagger, Flux, Helm Operator and Istio
-- [Managing a multi-tenant cluster with GitOps](https://github.com/stefanprodan/fluxcd-multi-tenancy) - Flux and Kustomize tutorial
+- [Managing a multi-tenant cluster with GitOps](https://github.com/fluxcd/flux2-multi-tenancy) - Flux and Kustomize tutorial
 - [GitOps-style continuous delivery with Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build) - Google Cloud Build tutorial
 
 ## Community
