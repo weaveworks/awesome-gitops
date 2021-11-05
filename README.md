@@ -78,7 +78,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 ## Tutorials
 
-- [Managing Helm releases the GitOps way](https://fluxcd.io/docs/components/source/helmrepositories/#spec-examples) - Flux and Helm Operator tutorial
+- [Managing Helm releases the GitOps way](https://github.com/fluxcd/flux2-kustomize-helm-example) - Flux and Helm Operator tutorial
 - [Automating Istio canary deployments with GitOps](https://github.com/stefanprodan/gitops-istio) - Progressive Delivery tutorial with Flagger, Flux, Helm Operator and Istio
 - [Managing a multi-tenant cluster with GitOps](https://github.com/fluxcd/flux2-multi-tenancy) - Flux and Kustomize tutorial
 - [GitOps-style continuous delivery with Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build) - Google Cloud Build tutorial
