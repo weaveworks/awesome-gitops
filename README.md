@@ -58,6 +58,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Gitkube](https://gitkube.sh/) - Build and deploy docker images to Kubernetes using git push
 - [Jenkins X](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
 - [KubeStack](https://www.kubestack.com/) - GitOps framework using Terraform for Cloud Kubernetes distros (AKS, GKE, and EKS) with CI/CD examples for common tools
+- [Weave GitOps Core](https://www.weave.works/product/gitops-core/) - Weave GitOps Core is a free and open source continuous delivery product to run apps in any Kubernetes.
 - [Weave Cloud](https://www.weave.works/product/cloud/) - GitOps experience, workflows and dashboard for your cluster(s) (commercial product from Weaveworks)
 - [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes (integrates with any existing CI system)
 - [PipeCD](https://pipecd.dev/) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
