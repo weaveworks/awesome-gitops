@@ -62,6 +62,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Weave GitOps Enterprise](https://www.weave.works/product/gitops-enterprise/) - Weave GitOps Enterprise is a continuous operations product that makes it easy to deploy and manage Kubernetes clusters and applications at scale in any environment. (commercial product from Weaveworks)
 - [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes (integrates with any existing CI system)
 - [PipeCD](https://pipecd.dev/) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
+- [Grant.rs](https://github.com/duyet/grant.rs) - Manage Redshift/Postgres privileges in GitOps style
 
 ## Ancillary Tools
 
