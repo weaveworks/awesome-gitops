@@ -57,6 +57,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Faros](https://github.com/pusher/faros) - CRD based GitOps controller
 - [Gitkube](https://gitkube.sh/) - Build and deploy docker images to Kubernetes using git push
 - [Jenkins X](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
+- [Kubefirst](https://github.com/kubefirst/kubefirst) - Fully-automated OSS delivery & infrastructure management gitops platforms
 - [KubeStack](https://www.kubestack.com/) - GitOps framework using Terraform for Cloud Kubernetes distros (AKS, GKE, and EKS) with CI/CD examples for common tools
 - [Sceptre](https://github.com/Sceptre/sceptre) - Sceptre is a tool to drive AWS CloudFormation as part of a CI/CD pipeline by using Hooks
 - [Weave GitOps OSS](https://github.com/weaveworks/weave-gitops) - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
