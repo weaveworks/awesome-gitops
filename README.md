@@ -50,7 +50,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Atlantis](https://www.runatlantis.io/) - Terraform pull request automation
 - [Autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a Git repository to a Kubernetes cluster
 - [CloudBees Rollout](https://rollout.io/) - Feature Flag as-a-Service that leverages GitOps & Config-as-Code (commercial product from CloudBees)
-- [FluxCD](https://github.com/fluxcd/flux2) - The GitOps Kubernetes operator
+- [Flux](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
 - [Helm Operator](https://github.com/fluxcd/helm-operator) - Automates Helm Chart releases in a GitOps manner
 - [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
 - [Ignite](https://github.com/weaveworks/ignite) - A Virtual Machine manager with a container UX and built-in GitOps
@@ -69,7 +69,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 ### Notifications
 
-- [Fluxcloud](https://github.com/topfreegames/fluxcloud) - Slack notifications for FluxCD without Weave Cloud
+- [Fluxcloud](https://github.com/topfreegames/fluxcloud) - Slack notifications for Flux without Weave Cloud
 
 ### Secrets
 
