@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Lint Markdown files
+        uses: avto-dev/markdown-lint@v1.5.0
+        with:
+          args: '.'
+      - name: install markdown-toc
+        run: |
+          npm install -g markdown-toc
+      - name: verify TOC is up-to-date
+        run: |
+          markdown-toc --bullets="-" -i README.md
+          git diff --exit-code
