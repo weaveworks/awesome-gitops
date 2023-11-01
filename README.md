@@ -59,6 +59,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Jenkins X](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
 - [KubeStack](https://www.kubestack.com/) - GitOps framework using Terraform for Cloud Kubernetes distros (AKS, GKE, and EKS) with CI/CD examples for common tools
 - [Sceptre](https://github.com/Sceptre/sceptre) - Sceptre is a tool to drive AWS CloudFormation as part of a CI/CD pipeline by using Hooks
+- [Terrateam](https://terrateam.io) - Terrateam is a CI/CD platform that allows teams to make Terraform changes with GitHub pull requests
 - [Weave GitOps OSS](https://github.com/weaveworks/weave-gitops) - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
 - [Weave GitOps Enterprise](https://www.weave.works/product/gitops-enterprise/) - Weave GitOps Enterprise is a continuous operations product that makes it easy to deploy and manage Kubernetes clusters and applications at scale in any environment. (commercial product from Weaveworks)
 - [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes (integrates with any existing CI system)
