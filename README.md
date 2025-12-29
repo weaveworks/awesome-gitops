@@ -57,6 +57,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Ignite](https://github.com/weaveworks/ignite) - A Virtual Machine manager with a container UX and built-in GitOps
 - [Faros](https://github.com/pusher/faros) - CRD based GitOps controller
 - [Jenkins X](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
+- [Kanvas](https://kanvas.new) - a collaborative tool with visual interface for designing and operating infrastructure.
 - [Kubefirst](https://github.com/kubefirst/kubefirst) - Fully-automated OSS delivery & infrastructure management gitops platforms
 - [KubeStack](https://www.kubestack.com/) - GitOps framework using Terraform for Cloud Kubernetes distros (AKS, GKE, and EKS) with CI/CD examples for common tools
 - [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - Self-contained GitOps framework for LXC-based container automation on Proxmox VE.
