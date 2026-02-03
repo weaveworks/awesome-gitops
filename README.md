@@ -67,6 +67,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [PipeCD](https://pipecd.dev/) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
 - [Grant.rs](https://github.com/duyet/grant.rs) - Manage Redshift/Postgres privileges in GitOps style
 - [Gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
+- [Kunobi](https://kunobi.ninja) - Desktop client for K8s+Flux with built-in MCP server
 - [argocd-backup-s3](https://github.com/oguzhan-yilmaz/argocd-backup-s3/) -  Kubernetes CronJob to backup ArgoCD with `argocd admin export` cmd and upload to S3 compatible storage
 
 ## Ancillary Tools
