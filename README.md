@@ -48,6 +48,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 
 - [ArgoCD](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes
 - [Atlantis](https://www.runatlantis.io/) - Terraform pull request automation
+- [Atlas Operator](https://github.com/ariga/atlas-operator) - A Kubernetes controller that uses [Atlas](atlasgo.io) to manage your database schema as code with a GitOps-based deployment workflow
 - [Autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a Git repository to a Kubernetes cluster
 - [Carvel](https://carvel.dev) — Tool suite for building, packaging, and managing software on Kubernetes in a GitOps way
 - [CloudBees Rollout](https://rollout.io/) - Feature Flag as-a-Service that leverages GitOps & Config-as-Code (commercial product from CloudBees)
