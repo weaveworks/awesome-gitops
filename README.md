@@ -65,6 +65,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Weave GitOps Enterprise](https://www.weave.works/product/gitops-enterprise/) - Weave GitOps Enterprise is a continuous operations product that makes it easy to deploy and manage Kubernetes clusters and applications at scale in any environment. (commercial product from Weaveworks)
 - [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes (integrates with any existing CI system)
 - [PipeCD](https://pipecd.dev/) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
+- [Qovery](https://www.qovery.com/) - Enterprise Kubernetes management platform with GitOps-driven deployments. Auto-deploy on Git push, Terraform provider for IaC, preview environments per PR, and [AI Agent Skill](https://github.com/Qovery/qovery-skills) for deploying from AI coding tools
 - [Grant.rs](https://github.com/duyet/grant.rs) - Manage Redshift/Postgres privileges in GitOps style
 - [Gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
 - [argocd-backup-s3](https://github.com/oguzhan-yilmaz/argocd-backup-s3/) -  Kubernetes CronJob to backup ArgoCD with `argocd admin export` cmd and upload to S3 compatible storage
