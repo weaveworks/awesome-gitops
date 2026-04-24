@@ -64,6 +64,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Weave GitOps OSS](https://github.com/weaveworks/weave-gitops) - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
 - [Weave GitOps Enterprise](https://www.weave.works/product/gitops-enterprise/) - Weave GitOps Enterprise is a continuous operations product that makes it easy to deploy and manage Kubernetes clusters and applications at scale in any environment. (commercial product from Weaveworks)
 - [Werf](https://werf.io) - GitOps tool with advanced features to build images and deploy them to Kubernetes (integrates with any existing CI system)
+- [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes management dashboard with GitOps-driven deployment workflows and binding policy management across KubeStellar edge and multi-cloud clusters.
 - [PipeCD](https://pipecd.dev/) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications
 - [Grant.rs](https://github.com/duyet/grant.rs) - Manage Redshift/Postgres privileges in GitOps style
 - [Gimlet](https://github.com/gimlet-io/gimlet) - The Flux-based Internal Developer Platform
