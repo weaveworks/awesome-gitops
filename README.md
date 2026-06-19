@@ -51,6 +51,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Autoapply](https://github.com/autoapply/autoapply) - Automatically apply changes from a Git repository to a Kubernetes cluster
 - [Carvel](https://carvel.dev) — Tool suite for building, packaging, and managing software on Kubernetes in a GitOps way
 - [CloudBees Rollout](https://rollout.io/) - Feature Flag as-a-Service that leverages GitOps & Config-as-Code (commercial product from CloudBees)
+- [DeployHQ](https://www.deployhq.com/) - Hosted Git-driven deployment automation for non-Kubernetes targets (servers via SSH/SFTP, S3) with build pipelines, zero-downtime deploys, and one-click rollback.
 - [Flux](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit
 - [Helm Operator](https://github.com/fluxcd/helm-operator) - Automates Helm Chart releases in a GitOps manner
 - [Flagger](https://github.com/weaveworks/flagger) - Progressive delivery Kubernetes operator (Canary, A/B testing and Blue/Green deployments automation)
