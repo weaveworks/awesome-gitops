@@ -59,6 +59,7 @@ Modern software development practices _assume_ support for reviewing changes, tr
 - [Jenkins X](https://jenkins-x.io/) - a CI/CD platform for Kubernetes that provides pipeline automation, built-in GitOps and preview environments
 - [Kubefirst](https://github.com/kubefirst/kubefirst) - Fully-automated OSS delivery & infrastructure management gitops platforms
 - [KubeStack](https://www.kubestack.com/) - GitOps framework using Terraform for Cloud Kubernetes distros (AKS, GKE, and EKS) with CI/CD examples for common tools
+- [OpenRun](https://github.com/openrundev/openrun) - Deployment platform for internal tools where apps and their config are managed declaratively in Git, with GitOps-based blue-green staged deployments, on a single node or Kubernetes
 - [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) - Self-contained GitOps framework for LXC-based container automation on Proxmox VE.
 - [Sceptre](https://github.com/Sceptre/sceptre) - Sceptre is a tool to drive AWS CloudFormation as part of a CI/CD pipeline by using Hooks
 - [Weave GitOps OSS](https://github.com/weaveworks/weave-gitops) - Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.
